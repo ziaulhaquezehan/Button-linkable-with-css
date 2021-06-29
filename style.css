@@ -1,0 +1,15 @@
+.social-media{
+    background-color: indianred;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.btn{
+    border: none;
+    padding: 10px 20px;
+    font-size: 2rem;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: limegreen;
+}
